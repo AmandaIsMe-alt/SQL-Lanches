@@ -2,6 +2,7 @@
 -- Seleções de dados
 
 -- 1)
+
 SELECT pedidos.*,
 produtos.id,
 produtos.nome,
