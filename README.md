@@ -17,7 +17,6 @@ Produtos_Pedidos (tabela pivô)
  ## <strong>ER Diagrama: </strong>
  <br><br>
 
-
  Tecnologias utilizadas:
 
  - PostgreSQL
@@ -33,6 +32,6 @@ Produtos_Pedidos (tabela pivô)
 
 Para iniciar a aplicação basta seguir o scrip abaixo:
 
-Clone este respositório e certifique-se de ter o PostgreSQL baixado, assim coo o DBeaver para acompanhar as simulações de CRUD e Queries.
+Clone este respositório e certifique-se de ter o PostgreSQL baixado, assim como o DBeaver para acompanhar as simulações de CRUD e Queries.
 
 <br>
