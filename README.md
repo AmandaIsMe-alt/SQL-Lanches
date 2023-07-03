@@ -14,8 +14,8 @@ Produtos_Pedidos (tabela pivô)
 
  É possível simular como as ações de criação (create), leitura (read), atualização (update) e deleção (delete) para ter uma ideia de como essas ações se traduzem no contexto do banco de dados.
 
- ## <strong>ER Diagrama: </strong>
- <br><br>
+ ## <strong>ER Diagrama: </strong> <br><br>
+ ![Diagrams](DER.png)<br><br>
 
  Tecnologias utilizadas:
 
